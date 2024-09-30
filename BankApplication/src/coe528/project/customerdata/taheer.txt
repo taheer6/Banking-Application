@@ -1,0 +1,5 @@
+Username: taheer
+Password: khan
+Balance: 26600.0
+Level: Platinum
+Role: Customer

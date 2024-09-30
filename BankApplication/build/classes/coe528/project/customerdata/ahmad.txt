@@ -1,0 +1,5 @@
+Username: ahmad
+Password: khan
+Balance: 1000.0
+Level: Silver
+Role: Customer

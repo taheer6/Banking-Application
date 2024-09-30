@@ -1,0 +1,5 @@
+Username: haris
+Password: jamal
+Balance: 10952.0
+Level: Gold
+Role: Customer

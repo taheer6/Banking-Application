@@ -1,0 +1,5 @@
+Username: ronald
+Password: sam
+Balance: 40.0
+Level: Silver
+User Type: Customer
